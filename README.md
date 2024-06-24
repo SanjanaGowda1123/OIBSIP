@@ -14,8 +14,7 @@ A responsive landing page built with HTML and CSS, inspired by the ExpressVPN la
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
