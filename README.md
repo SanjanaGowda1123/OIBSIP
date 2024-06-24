@@ -34,3 +34,22 @@ This project is a beginner-friendly web development exercise aimed at creating a
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/SanjanaGowda1123/OIBSIP.git
+## Usage
+
+open index.html
+
+## Folder Structure
+
+landing-page-project/
+├── data-protection.png
+├── every-device.png
+├── hero-image.png
+├── index.html
+├── logo.png
+├── quick-connectivity.png
+├── safer-internet.png
+├── seamless.png
+├── secure-access.png
+├── styles.css
+└── world-map.png
+
